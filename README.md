@@ -8,8 +8,9 @@ As a fresh graduate, athis collection has mostly just academia based projects li
 My top skill is Problem-solving with optimized algorithms by keeping a balance in space and time complexity of any code while following design principles to the max.
 
 To keep further enhacning these skills of mine, i actively expplore and solve problems at 2 of the problem solving sites, HackerRank & CodeSignals. Below are the links to my respective profiles:
-https://github.com/Sohaibb98/Portfolio
+
 https://app.codesignal.com/profile/sohaib_b
+
 https://www.hackerrank.com/sohaib_baqai3
 
 # Skills
