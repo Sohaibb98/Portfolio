@@ -1,0 +1,10 @@
+﻿  NEMain.cpp
+c:\users\umair\desktop\data st\project\networkemulator\networkemulator\rt.h(21): warning C4099: 'BTree<t>::Node': type name first seen using 'struct' now seen using 'class'
+  c:\users\umair\desktop\data st\project\networkemulator\networkemulator\rt.h(19): note: see declaration of 'BTree<t>::Node'
+  c:\users\umair\desktop\data st\project\networkemulator\networkemulator\rt.h(300): note: see reference to class template instantiation 'BTree<t>' being compiled
+c:\users\umair\desktop\data st\project\networkemulator\networkemulator\rt.h(21): warning C4099: 'BTree<char>::Node': type name first seen using 'struct' now seen using 'class'
+  c:\users\umair\desktop\data st\project\networkemulator\networkemulator\rt.h(19): note: see declaration of 'BTree<char>::Node'
+  c:\users\umair\desktop\data st\project\networkemulator\networkemulator\nemain.cpp(33): note: see reference to class template instantiation 'BTree<char>' being compiled
+c:\users\umair\desktop\data st\project\networkemulator\networkemulator\nemain.cpp(35): warning C4101: 'temp': unreferenced local variable
+  NetworkEmulator.vcxproj -> C:\Users\Umair\Desktop\DATA St\Project\NetworkEmulator\Debug\NetworkEmulator.exe
+  NetworkEmulator.vcxproj -> C:\Users\Umair\Desktop\DATA St\Project\NetworkEmulator\Debug\NetworkEmulator.pdb (Partial PDB)
