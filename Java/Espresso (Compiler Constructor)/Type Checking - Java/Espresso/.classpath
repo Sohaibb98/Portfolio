@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/Users/zubairbaqai/Desktop/FL/Jahanzaib/Type Checking - Java/Phase4_1/src/Utilities/java_cup.jar"/>
+	<classpathentry kind="con" path="C:/Users/zubairbaqai/Desktop/FL/Jahanzaib/Type Checking - Java/Phase4_1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

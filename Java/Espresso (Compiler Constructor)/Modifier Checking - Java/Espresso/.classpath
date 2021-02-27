@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/Users/zubairbaqai/Desktop/FL/Jahanzaib/Modifier Checking - Java/Phase5/src/Utilities/java_cup.jar"/>
+	<classpathentry kind="con" path="C:/Users/zubairbaqai/Desktop/FL/Jahanzaib/Modifier Checking - Java/Phase5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

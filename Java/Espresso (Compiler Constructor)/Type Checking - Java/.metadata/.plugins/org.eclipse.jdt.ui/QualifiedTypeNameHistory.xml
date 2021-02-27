@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="AST.BinOp"/>
+<fullyQualifiedTypeName name="AST.Sequence"/>
+<fullyQualifiedTypeName name="AST.Statement"/>
+<fullyQualifiedTypeName name="AST.Expression"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="AST.AssignmentOp"/>
+</qualifiedTypeNameHistroy>
