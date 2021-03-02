@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw0-windows.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cookiecrush.cpp
+c:\users\umair\desktop\itc project\candycrush+_vs-2013_\candycrush (vs-2013)\hw0-windows\util.h(294): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  hw0-windows.vcxproj -> C:\Users\Umair\Desktop\ITC project\CandyCrush+_VS-2013_\CandyCrush (VS-2013)\Debug\bSlayer.exe
+  hw0-windows.vcxproj -> C:\Users\Umair\Desktop\ITC project\CandyCrush+_VS-2013_\CandyCrush (VS-2013)\Debug\bSlayer.pdb (Full PDB)
